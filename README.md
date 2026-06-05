@@ -56,7 +56,6 @@ Hello There! I'm **Kunal Raha**, a 20-year-old AI/ML Engineer and founder. I enj
 
 <p align="center">
   <!-- These URLs are dynamically tied to your GitHub username and use a dark theme to match the vibe -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalraha-ai&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalraha-ai&theme=vision-friendly-dark&hide_border=true&background=000000" alt="GitHub Streak" />
 </p>
 
