@@ -1,6 +1,6 @@
 <p align="center">
-  <!-- Replace this link with the link to your green ASCII art / banner -->
-  <img src="https://via.placeholder.com/1000x250/000000/39FF14?text=YOUR+ASCII+ART+HERE" width="100%" alt="Banner" />
+
+<img width="1962" height="1743" alt="tomieascii" src="https://github.com/user-attachments/assets/a0b2630b-20e4-41de-aa54-755444d9d23f" />
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Hello There! I'm **Kunal Raha**, a 20-year-old AI/ML Engineer and founder. I enj
 
 <p align="center">
   <!-- These URLs are dynamically tied to your GitHub username and use a dark theme to match the vibe -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalraha-ai&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalraha-ai&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=000000&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalraha-ai&theme=vision-friendly-dark&hide_border=true&background=000000" alt="GitHub Streak" />
 </p>
 
