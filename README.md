@@ -61,14 +61,16 @@ currently: contributing to high-visibility open-source AI tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kunalraha-ai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalraha-ai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=kunalraha-ai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunalraha-ai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00F5D4&text_color=c9d1d9" alt="Top Languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalraha-ai&theme=vision-friendly-dark&hide_border=true&background=0A0A0A&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kunalraha-ai&theme=react-dark&hide_border=true&bg_color=0A0A0A&color=00F5D4&line=00F5D4&point=ffffff" alt="Activity Graph" />
 
 </div>
+
+> **Note:** these cards now use [`github-stats-extended`](https://github.com/stats-organization/github-stats-extended), the actively maintained successor to `github-readme-stats` (which is officially discontinued). If a card ever goes down again, the most bulletproof fix is the [`github-readme-stats-action`](https://github.com/stats-organization/github-readme-stats-action) — it generates the SVGs via a scheduled GitHub Action and commits them straight into this repo, so nothing depends on a third-party server rendering on the fly.
 
 <details>
 <summary>🔥 Contribution Heatmap (enable via GitHub Action)</summary>
